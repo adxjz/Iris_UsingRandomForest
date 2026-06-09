@@ -107,7 +107,7 @@ Interested in:
 * Embedded Systems
 * Battery Management Systems (BMS)
 * Electric Vehicle Technologies
-
+Linkedin:https://www.linkedin.com/in/aditya-sriram-a90633313/
 ---
 
 ⭐ If you like this project, consider giving it a star!
